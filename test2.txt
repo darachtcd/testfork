@@ -1,1 +1,2 @@
 contents of test2.txt
+important added line to test2.txt
