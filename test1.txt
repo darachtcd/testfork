@@ -1,3 +1,4 @@
 contents of test1.txt
 add second line
 feature 1 with a bit of correction
+another line
